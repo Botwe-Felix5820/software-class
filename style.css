@@ -14,14 +14,14 @@
 .circle {
     height: 50px;
     width: 50px;
-    background: orangered;
+    background: brown;
     border-radius: 50%;
     margin: 20px;
     transition: 0.5s;
 }
 
 .grow_btn {
-    background: black;
+    background: rgb(0, 117, 10);
     color: white;
     border: none;
     outline: none;
